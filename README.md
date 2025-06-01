@@ -44,3 +44,7 @@ Opened a new file using nano nm-role.json and pasted this:
   "NotActions": [],
   "AssignableScopes": ["/subscriptions/<your-subscription-id>"]
 }
+
+
+### ✅ 3. Custom Role Creation (Output)
+![Role Created](./002-Custom-Role-Created-Output.png)
