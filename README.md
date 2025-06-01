@@ -54,3 +54,15 @@ Opened a new file using nano nm-role.json and pasted this:
 
 ### ❌ 5. Role Assignment Failure (Free Tier)
 ![Assignment Failed](./04-role-assignment-falure-free-tier.png)
+
+---
+
+## 🧠 Insight:- free tier subscrption often block custom role assignments unless billing is enabled or upgraded.
+
+---
+
+## 🧠  Real-World Lesson 
+This project reflects real troubleshooting;
+- How to test Custom Json role definitions
+- Catch and resolve errors like subscription/role provider issues
+- What happens on free-tier Azure when trying advanced RBAC
