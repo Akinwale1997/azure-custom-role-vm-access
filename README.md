@@ -53,4 +53,4 @@ Opened a new file using nano nm-role.json and pasted this:
 ![Role JSON Output](./03-Custom-Role-Created-output.png)
 
 ### ❌ 5. Role Assignment Failure (Free Tier)
-![Assignment Failed](./04-role-assignment-failure-free-tier.png)
+![Assignment Failed](./04-role-assignment-falure-free-tier.png)
